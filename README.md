@@ -29,3 +29,20 @@ cd - Permet de revenir au répertoire précédent.
 pwd Renvoyer le chemin absolu du répertoire courant ce qui est utile puisqu’en général le shell
 
 
+### Afficher le contenu d'un répertoire :
+
+ls -l Afficher les informations de manière détaillée.
+
+ls -a Afficher les fichiers cachés.
+
+ls -h Afficher la taille des fichiers de facon lisible.
+
+ls -r Tri inversé.
+
+ls -t Trier les fichiers par date du plus récent au plus ancien.
+
+ls -S Trier par taille décroissante.
+
+ls -la Afficher tous les fichiers y compris les fichiers cachés.
+
+ls -lhS Afficher les informations des fichiers, avec des tailles lisibles le tout ordonné du plus grand au plus petit.
