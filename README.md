@@ -1,6 +1,5 @@
 # LINUX DOC
 
-
 ifconfig   - reg des  config et ip adresse 
 
 Linux - Compresser/Décompresser un fichier ZIP :
