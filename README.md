@@ -17,9 +17,15 @@ unzip nom_du_fichier.zip -d destination
 ### La navigation :
 
 cd / Permet de se retrouver à la racine du disque.
+
 cd ~ ou cd Accéder directement au répertoire de l’utilisateur.
+
 cd /var/www/ Aller dans le répertoire /var/www.
+
 cd .. Remonter dans le répertoire parent à partir de là où vous êtes.
+
 cd - Permet de revenir au répertoire précédent.
-pwd Renvoyer le chemin absolu du répertoire courant ce qui est utile puisqu’en général le shell 
+
+pwd Renvoyer le chemin absolu du répertoire courant ce qui est utile puisqu’en général le shell
+
 
