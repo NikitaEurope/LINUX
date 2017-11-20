@@ -14,7 +14,8 @@ unzip nom_du_fichier.zip -d destination
 ## Linux - commandes fondamentales
 
 
-###La navigation :
+### La navigation :
+
 cd / Permet de se retrouver à la racine du disque.
 cd ~ ou cd Accéder directement au répertoire de l’utilisateur.
 cd /var/www/ Aller dans le répertoire /var/www.
