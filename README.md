@@ -22,3 +22,4 @@ cd /var/www/ Aller dans le répertoire /var/www.
 cd .. Remonter dans le répertoire parent à partir de là où vous êtes.
 cd - Permet de revenir au répertoire précédent.
 pwd Renvoyer le chemin absolu du répertoire courant ce qui est utile puisqu’en général le shell 
+
