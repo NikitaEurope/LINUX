@@ -60,5 +60,14 @@ Renommer le fichier test.txt en test2.txt : mv test.txt test2.txt
 Supprimer : rm fichier.txt
 
 
+### Effacer un fichier :
+
+rm *.txt    Supprimer tous les fichiers ayant pour extension txt.
+
+rm foo.txt bar.txt    Supprimer les fichiers foo.txt et bar.txt.
+
+rm -rf baz/     Supprimer le répertoire baz et tout son contenu.
+
+
 
 
