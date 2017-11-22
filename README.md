@@ -46,3 +46,16 @@ ls -S Trier par taille décroissante.
 ls -la Afficher tous les fichiers y compris les fichiers cachés.
 
 ls -lhS Afficher les informations des fichiers, avec des tailles lisibles le tout ordonné du plus grand au plus petit.
+
+
+### Un fichier
+
+Créer un fichier : touch fichier.txt
+
+Editer un fichier : vi fichier.txt     > i ( edition) > Echap:wq ( subegarde)
+
+Renommer le fichier test.txt en test2.txt : mv test.txt test2.txt
+
+Supprimer : rm fichier.txt
+
+
