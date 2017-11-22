@@ -11,6 +11,7 @@ Pour décompresser un fichier, l'usage est le suivant :
 unzip nom_du_fichier.zip -d destination
 
 
+
 ## Linux - commandes fondamentales
 
 
@@ -57,5 +58,7 @@ Editer un fichier : vi fichier.txt     > i ( edition) > Echap:wq ( subegarde)
 Renommer le fichier test.txt en test2.txt : mv test.txt test2.txt
 
 Supprimer : rm fichier.txt
+
+
 
 
